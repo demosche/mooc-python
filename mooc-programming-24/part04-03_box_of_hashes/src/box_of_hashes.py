@@ -7,3 +7,4 @@ def box_of_hashes(height):
 # You can test your function by calling it within the following block
 if __name__ == "__main__":
     box_of_hashes(5)
+s
